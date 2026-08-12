@@ -1,0 +1,8 @@
+# Package definition for fzf
+
+package_name: fzf
+github_repo: junegunn/fzf
+artifact_format: tar.gz
+description: "A command-line fuzzy finder"
+
+# Build for all Debian suites and all supported architectures.
