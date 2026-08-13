@@ -2,6 +2,7 @@
 
 package_name: fzf
 github_repo: junegunn/fzf
+license: MIT
 artifact_format: tar.gz
 description: "A command-line fuzzy finder"
 
